@@ -1,0 +1,9 @@
+.image-input{
+    height:170px;
+    width:170px;
+    margin: 20px;
+  }
+  
+  input:focus{
+    outline: none;
+  }

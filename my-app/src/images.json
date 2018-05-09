@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Lois_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Meg_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Chris_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Stewie_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Brian_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Glenn_Quagmire.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Cleveland_Brown.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Cleveland_Brown_Jr.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Herbert_-_Family_Guy.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Griffin_family.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Adam_West_on_Family_Guy.png",
+      "clicked": false
+    }
+  ]
